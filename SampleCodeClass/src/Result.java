@@ -30,5 +30,9 @@ public class Result {
      		return;
 	}
 	
+    void danielHere()
+    {
+        System.out.println("Sleep Deprived");
+    }
 
 }
