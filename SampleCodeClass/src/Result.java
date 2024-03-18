@@ -32,7 +32,7 @@ public class Result {
 	
     void danielHere()
     {
-        System.out.println("Sleep Deprived");
+        System.out.println("Sleep Deprived, Absolutely");
     }
 
 }
